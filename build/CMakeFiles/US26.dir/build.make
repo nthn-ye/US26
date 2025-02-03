@@ -97,6 +97,10 @@ US26: CMakeFiles/US26.dir/src/main.cpp.o
 US26: CMakeFiles/US26.dir/build.make
 US26: CMakeFiles/US26.dir/compiler_depend.ts
 US26: /usr/lib64/libSDL2.so
+US26: /usr/lib64/libOpenGL.so
+US26: /usr/lib64/libGLX.so
+US26: /usr/lib64/libGLU.so
+US26: /usr/lib64/libGLEW.so
 US26: CMakeFiles/US26.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/nathan/Documents/devsus/US26/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable US26"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/US26.dir/link.txt --verbose=$(VERBOSE)
